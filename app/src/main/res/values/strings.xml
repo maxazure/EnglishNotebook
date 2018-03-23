@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Travel English</string>
+    <string name="action_about">About</string>
+    <string name="nothing">Nothing inside.</string>
+    <string name="default_hint">No Lyrics</string>
+    <string name="about_jared">Hi, I’m Jared, a TEFL-qualified English Teacher from Auckland, New Zealand! I’ve taught English for 3 years in primary schools, adult classes and private tutoring around the world - particularly to Spanish Speakers - and helped University students in Medellín, Colombia to prepare for their IELTS and graduation exams. My favorite thing to do is leave home with a pack on my back, hiking boots on my feet and without a clear destination. What\'s yours?</string>
+    <string name="jared">Jared</string>
+</resources>
